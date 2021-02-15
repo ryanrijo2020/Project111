@@ -1,0 +1,11 @@
+body {
+    
+    background-color:rgb(255, 254, 254);
+}
+.text_images_and_result {
+    border:2px solid rgb(255, 255, 255);
+    width:600px;
+    height: 605px;
+    box-shadow:5px 5px 18px rgb(0, 0, 0);
+    border-radius: 10px;
+}
